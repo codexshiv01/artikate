@@ -66,7 +66,7 @@ Available endpoints:
 | `GET /api/tenants/orders/` | Section 3 — Tenant-scoped orders (requires `X-Tenant-ID` header) |
 | `GET /silk/` | django-silk profiler dashboard |
 
-### 6. Start Celery worker (for Section 2 live demo)
+### 6. Start Celery worker 
 
 ```bash
 celery -A artikate worker -l info
