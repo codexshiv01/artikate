@@ -1,4 +1,4 @@
-# Artikate Studio — Backend Developer Technical Assessment
+# Artikate Studio 
 
 
 
