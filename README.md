@@ -13,7 +13,7 @@
 ### 1. Clone and set up
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/codexshiv01/artikate.git
 cd artikate-studio
 
 # Create virtual environment
