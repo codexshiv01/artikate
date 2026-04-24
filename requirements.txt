@@ -1,0 +1,9 @@
+django>=4.2,<5.1
+djangorestframework>=3.14
+psycopg2-binary>=2.9
+celery[redis]>=5.3
+redis>=5.0
+django-silk>=5.0
+django-cors-headers>=4.3
+faker>=22.0
+PyJWT>=2.8
