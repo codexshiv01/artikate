@@ -1,10 +1,8 @@
 # Artikate Studio — Backend Developer Technical Assessment
 
-**Candidate submission for the Python · Django · Systems Engineering assessment.**
 
----
 
-## Quick Start (< 5 minutes)
+
 
 ### Prerequisites
 
